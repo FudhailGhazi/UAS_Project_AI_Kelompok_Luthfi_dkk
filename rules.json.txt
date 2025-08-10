@@ -1,0 +1,12 @@
+{
+    "default_ga": {
+        "population_size": 80,
+        "generations": 300,
+        "crossover_rate": 0.8,
+        "mutation_rate": 0.05,
+        "elitism": 2,
+        "seed": 42
+    },
+    "days": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"],
+    "sessions": ["Sesi 1", "Sesi 2", "Sesi 3", "Sesi 4"]
+}
